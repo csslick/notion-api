@@ -1,5 +1,4 @@
-// const CROS = 'https://cors-anywhere.herokuapp.com/'
-const CROS = ''
+const CROS = 'https://cors-anywhere.herokuapp.com/'
 const NOTION_TOKEN = 'secret_V7jX90Mu3o79uutcHlNmvecbrG6FIBxOKragt6IYPYP'
 const NOTION_DB_ID = '2a9e781c8d154ef6a3ff56bd90471a18'
 
